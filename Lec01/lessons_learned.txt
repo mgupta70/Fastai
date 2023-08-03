@@ -1,2 +1,8 @@
-Image Classification
-Data Downloading
+Master Image Classification Notebook:  
+(Datasets available with Fastai: https://docs.fast.ai/data.external.html)
+
+This notebook is created by bringing all important bits and pieces from the below mentioned notebooks: 
+1. Is it a bird? [download_url, search_images, duckduckgosearch]
+2. Fastbook Ch-02: [plot_top_losses, ConfusionMatrix, unlink broken images]
+3. First Steps: Road to the Top, Part 1 [Parallel, ]
+4. First Steps: Road to the Top, Part 3 [cleaning gpu cache, ]
